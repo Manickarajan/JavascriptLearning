@@ -4,7 +4,7 @@ class Employee{
         this.id = id;
     }
 }
-
+console.log("welcome");
 let emp1 = new Employee('Peter', 1001);
 let emp2 = new Employee('David', 1002);
 
